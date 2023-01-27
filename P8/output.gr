@@ -1,0 +1,34 @@
+3
+a
+b
+c
+9
+A
+B
+S
+U_a
+U_b
+V_1
+V_2
+V_3
+V_4
+S
+A -> U_aB
+A -> U_bB
+A -> a
+A -> b
+B -> U_aB
+B -> U_bB
+B -> a
+B -> b
+B -> c
+S -> U_aU_b
+S -> U_aV_1
+S -> U_aV_2
+S -> U_aV_3
+U_a -> a
+U_b -> b
+V_1 -> AU_b
+V_2 -> AV_4
+V_3 -> U_bA
+V_4 -> U_bA

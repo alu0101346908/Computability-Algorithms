@@ -1,0 +1,20 @@
+Alfabeto : {a, b}
+Se usan todos los simbolos
+Cadena: {abbab}
+babba
+
+Alfabeto : {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+Simbolos sin usar:  0 1 2 4 5
+Cadena: {6793836}
+6383976
+
+Alfabeto : {h, o, l, a}
+Se usan todos los simbolos
+Cadena: {hola}
+aloh
+
+Alfabeto : {a, b, c, d}
+Simbolos sin usar:  d
+Cadena: {abbabc}
+cbabba
+
